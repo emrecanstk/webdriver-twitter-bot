@@ -42,15 +42,7 @@ for i in liste:
 
 
 
+# Medium: Twitter Bot | Selenium Webdriver
+# Yazar: Emre Can Satık
 
-
-
-
-
-
-
-
-
-
-
-
+# Bağlantı: https://medium.com/@emrecanstk/twitter-botu-selenium-webdriver-527699e3cd4f
